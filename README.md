@@ -14,7 +14,7 @@ Basic steps adopted to build the model:
 6-Save the model as (model.h5)
 7-Testing the model
 8-Convert the trained model to (model.tflite) file to use it into (android studio ) as TensorFlow Lite.
-## To directly access the model in the Colab platform through the link:https://colab.research.google.com/drive/1dGQsZS5RFcsfXSlwnR0n4cMwMWSqy6KI?usp=sharing
+- To directly access the model in the Colab platform through the link:https://colab.research.google.com/drive/1dGQsZS5RFcsfXSlwnR0n4cMwMWSqy6KI?usp=sharing
 # 4. Method To Deploy trained model to android studio program
 - We used TensorFlow Lite method to deploy model.
 - TensorFlow Lite : is a set of tools that enables on-device machine learning by helping developers run their models on mobile, embedded, and edge devices.
